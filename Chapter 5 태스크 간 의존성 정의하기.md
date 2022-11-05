@@ -204,7 +204,7 @@ def _latest_only(**context):
         raise AirflowSkipException("Not the most recent run!")
 ```
 
-<figure><img src="images/Chapter 5 태스크 간 의존성 정의하기/Untitled 9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="images/Chapter 5 태스크 간 의존성 정의하기/Untitled 9.png" alt="" width="50%"><figcaption></figcaption></figure>
 
 * 가장 최근 실행에 대해서만 배포 태스크가 수행됨
 
