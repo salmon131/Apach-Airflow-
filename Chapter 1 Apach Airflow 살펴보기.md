@@ -31,7 +31,7 @@
 
 ## Airflow 동작 원리
 
-<img src="images/Chapter 1 Apach Airflow 살펴보기/Untitled.png">
+<img src="images/Chapter 1 Apach Airflow 살펴보기/Untitled.png" style="min-width: 100%;">
 
 - **Scheduler** : 워크플로우를 스케줄링한다. 모든 DAG와 태스크를 모니터링하고 관리하며, 주기적으로 실행해야 할 태스크를 찾고 해당 태스크를 실행 가능한 상태로 변경한다.
 - **DAG Script** : 개발자가 작성한 파이썬 워크플로우 스크립트
