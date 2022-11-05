@@ -3,4 +3,4 @@
 
 매주 한 챕터씩 업데이트 예정이며, 예제 소스코드는 [이곳](https://github.com/K9Ns/data-pipelines-with-apache-airflow)에서 다운받아 진행하였습니다.
 
-<figure><img src="images/README/Airflow.jpeg" width="100%"></figure>
+<figure><img src="images/README/Airflow.jpeg" width="60%"></figure>
